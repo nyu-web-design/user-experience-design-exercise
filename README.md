@@ -16,23 +16,23 @@ On top of these requirements, you are welcome to add any additional work that yo
 
 ### Wireframes
 
-Use [draw.io](https://draw.io) to draft **mobile wireframes** for the **mobile version** your imaginary site.
+Use [Figma's Design tool](https://www.figma.com/design/) to draft **mobile wireframes** for the **mobile version** your imaginary site.
 
 - create one wireframe for each distinct page of the site
 - if there are interactive behaviors you are proposing for the site, such as content that appears dynamically on a page when the user hovers or clicks on something, be sure to create a version of the wireframess for those pages without the dynamic content displayed, and another version with the dynamic content displayed.
 - the exact width of the wireframes is not important, but make sure every wireframe has the same width and looks suitable laid out for mobile devices.
 
-Export each wireframe diagram as a `.png` file - you will post these to your personal web site later.
+[Export](https://help.figma.com/hc/en-us/articles/360040028114-Export-from-Figma-Design) each wireframe diagram as a `.png` file - you will post these to your personal web site later.
 
 ### Site map
 
-Use draw.io to create a simple site map of your imaginary web site.
+Use [Figma's FigJam tool](https://www.figma.com/figjam/) to create a simple site map of your imaginary web site.
 
 Export the site map diagram as a `.png` file - you will post it to your personal web site later.
 
 ### Clickable prototype
 
-Use the Prototype feature of [InvisionApp](https://invision.com/) to create a clickable **mobile** prototype.
+Use [Figma's Prototype feature](https://www.figma.com/prototyping/) with its Design tool to create a clickable **mobile** prototype.
 
 When creating a clickable prototype, meet the following minimal requirements:
 
