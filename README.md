@@ -102,8 +102,8 @@ You are now ready to submit this assignment. You can do so directly from Visual 
 1. Switch to the Source Control view in Visual Studio Code - this view will show you a list of the files you have modified.
 1. In the "`Message`" text field towards the top-left, enter a unique message to yourself about what you have changed and, while still with the text field selected, type `Command`-`Enter` on Mac OS X, or `Control`-`Enter` on Windows, to "commit" the changes you've made with this custom message. If you forget to hit `Command`-`Enter` after typing the message, you can instead click the "`...`" button above the message field and click the "`Commit all`" option in the menu that appears.
 1. Now, click the "`...`" button above the message field and click the "`Push`" option in the menu that appears - this will upload your changes to your own fork of this repository on GitHub.
-1. Post the web address of your fork in your own private channel in the course Discord, so that we know your work is ready to be graded.
+1. Share the web address of your fork using the messaging app specified by your instructor, posting it wherever the instructor has directed you to submit work.
 
 You have now submitted your completed assignment. Your changes are now posted to your fork on GitHub.com, where the instructor and graders can access it. Your `settings.json` file has information about who you are and where we can view your page on the web.
 
-You can verify all this yourself manually by visiting your own fork on GitHub.com and making sure the code displayed there is what you submitted, and by checking that the address you posted in Discord opens that fork.
+You can verify all this yourself manually by visiting your own fork on GitHub.com and making sure the code displayed there is what you submitted, and by checking that the address you shared opens that fork.
